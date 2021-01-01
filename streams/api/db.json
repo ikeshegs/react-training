@@ -1,3 +1,19 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "title": "Shadowhunters",
+      "description": "A stream about the world of shadowhunters",
+      "id": 1
+    },
+    {
+      "title": "Shadowhunters",
+      "description": "A stream about the world of shadowhunters",
+      "id": 2
+    },
+    {
+      "title": "Acheron",
+      "description": "A stream about the world of Darkhunters",
+      "id": 3
+    }
+  ]
 }
