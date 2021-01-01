@@ -14,6 +14,12 @@
       "title": "Acheron",
       "description": "A stream about the world of Darkhunters",
       "id": 3
+    },
+    {
+      "title": "Barbarians",
+      "description": "The Barbarians Stream",
+      "userId": "104404648209364330818",
+      "id": 4
     }
   ]
 }
