@@ -23,9 +23,14 @@
     },
     {
       "title": "Bardadash",
-      "description": "bad badder baddest",
+      "description": "patch request",
       "userId": "104404648209364330818",
       "id": 5
+    },
+    {
+      "title": "Learning React Hooks",
+      "description": "I just refactored this!!!",
+      "id": 6
     }
   ]
 }
