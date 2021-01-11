@@ -14,23 +14,6 @@
       "title": "Acheron",
       "description": "A stream about the world of Darkhunters",
       "id": 3
-    },
-    {
-      "title": "Barbarians",
-      "description": "The Barbarians Stream",
-      "userId": "104404648209364330818",
-      "id": 4
-    },
-    {
-      "title": "Bardadash",
-      "description": "patch request",
-      "userId": "104404648209364330818",
-      "id": 5
-    },
-    {
-      "title": "Learning React Hooks",
-      "description": "I just refactored this!!!",
-      "id": 6
     }
   ]
 }
